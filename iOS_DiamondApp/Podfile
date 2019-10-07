@@ -1,0 +1,23 @@
+platform:ios,'8.0'
+
+target 'iOS_DiamondApp' do
+    #网络请求
+    pod 'AFNetworking'
+    #Json→Model、cache
+    pod 'YYKit'
+    #刷新
+    pod 'MJRefresh'
+    #布局
+    pod 'Masonry'
+    #键盘管理
+    pod 'IQKeyboardManager'
+    #交互提示
+    pod 'MBProgressHUD'
+    #空数据视图
+    pod 'DZNEmptyDataSet'
+    #轮播图
+    pod 'SDCycleScrollView'
+    
+
+
+end
